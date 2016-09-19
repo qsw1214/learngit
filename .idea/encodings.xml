@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/station.db" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/add_user_25.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/administrator_25.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/cab_background_top_mainbar.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/cancel_25.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/contact_list_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/flg_guo.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/flg_null.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/flg_shi.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/flg_zhong.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/forward_25.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/lock_25.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/opposite_arrows.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/passenger_25.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/qr.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/to.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/user_male4_50.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/my_contact.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/ticket_details_step2.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/ticket_passenger_step3.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/icon.png" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
